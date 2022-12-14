@@ -2,7 +2,7 @@
 name = "tera_abstaction_for_actixweb"
 version = "0.1.0"
 edition = "2021"
-license = "GPLv3"
+license = "GPL-3.0-or-later"
 description = "Makes creating a Tera instance and rendering a template in Actix-Web easier"
 readme = "README.md"
 repository = "https://github.com/GlitchyCrafting/tera_abstraction_for_actixweb.git"
