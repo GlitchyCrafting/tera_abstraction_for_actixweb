@@ -1,5 +1,5 @@
 [package]
-name = "tera_abstaction_for_actixweb"
+name = "tera_abstraction_for_actixweb"
 version = "0.1.0"
 edition = "2021"
 license = "GPL-3.0-or-later"
